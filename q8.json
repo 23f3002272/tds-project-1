@@ -1,0 +1,6 @@
+{
+  "prompt": "A hyper-detailed, photorealistic macro photograph of a massive, complex woven tapestry. Every single individual thread is clearly visible and features a stark, undeniable color gradient shifting from pitch black on the left to bright white on the right. However, the overall woven pattern these threads construct creates a massive overarching macro-gradient that flows entirely in reverse: from bright white on the left to pitch black on the right. High contrast, uncanny optical illusion, striking structural contradiction, deeply unsettling geometry, no text, no symbols.",
+  "model": "Nano Banana Pro (Gemini 3 Flash Image)",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Individual threads strictly follow a black-to-white gradient (local trend), but the overarching woven pattern they construct forms a contradictory white-to-black gradient (global trend reversing the local)."
+}
