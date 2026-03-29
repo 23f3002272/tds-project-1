@@ -1,0 +1,8 @@
+{
+  "prompt": "A 14th-century Medieval European illuminated manuscript depicting a 'neural network'. The network nodes are drawn as miniature circular medallions painted in vibrant lapis lazuli and vermilion, accented with flat gold leaf detailing. The connecting lines are intricate, sinuous interlaced vines forming a structured web across the page. Flat perspective, painted on aged vellum with visible manuscript texture. Surrounded by traditional decorative marginalia featuring geometric knotwork. No modern typography, no 3D shading, strict adherence to Gothic illuminated manuscript compositional grammar.",
+  "model": "Nano Banana Pro (Gemini 3 Flash Image)",
+  "concept": "Neural Networks",
+  "tradition_name": "Medieval European manuscript illumination",
+  "tradition_period": "14th Century",
+  "tradition_approach": "Targeted the flat perspective, gold leaf detailing, lapis/vermilion palette, and interlaced vine motifs typical of 14th-century marginalia to structure the network's nodes and connections, avoiding modern 3D shading or gradients."
+}
