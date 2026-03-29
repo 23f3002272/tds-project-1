@@ -1,0 +1,6 @@
+{
+  "prompt": "Wide-angle photograph of a football training session on a grass pitch at golden hour. A team of players in training kits is running an active passing drill, but several crucial field positions are visibly empty — there are no players standing there, only brightly colored training cones marking where teammates should be. The present players are visibly working harder, stretching, and covering more ground to fill the random gaps left by the missing players. Cinematic documentary style, photorealistic, natural sunlight. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements, no neural network visualisations, no data flow arrows, no UI elements, no screen displays, no infographic elements. Everything in the scene must be a physical object that could exist in the real world.",
+  "model": "Nano Banana Pro (Gemini 3 Flash Image)",
+  "concept": "dropout",
+  "metaphor": "A sports team practicing with randomly missing players. Remaining teammates must adapt and cover more ground, mirroring how dropout prevents neurons from relying on specific co-adaptations."
+}
